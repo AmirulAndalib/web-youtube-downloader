@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/Feuerhamster/web-youtube-downloader#readme",
   "dependencies": {
-    "@distube/ytdl-core": "^4.15.8",
-    "express": "^4.17.1",
+    "@distube/ytdl-core": "^4.16.12",
+    "express": "^4.22.3",
     "node-cache": "^5.1.2",
     "pug": "^3.0.2",
     "typescript": "^4.2.3"
